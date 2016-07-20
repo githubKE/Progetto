@@ -10,5 +10,7 @@ package project;
  * @author Enrico
  */
 public class Caricamento {
-    
+    public static void main (String args[]){
+        System.out.println("Provo a stampare");
+    }
 }
