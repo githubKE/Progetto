@@ -10,7 +10,10 @@ package project;
  * @author Kevin
  */
 public class calsse {
+    protected double tempo;
+    
     public calsse(){
         
     }
+    
 }
