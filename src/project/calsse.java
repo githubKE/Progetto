@@ -10,5 +10,7 @@ package project;
  * @author Kevin
  */
 public class calsse {
-    
+    public calsse(){
+        
+    }
 }
